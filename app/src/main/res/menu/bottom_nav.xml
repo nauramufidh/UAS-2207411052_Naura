@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/zhome"/>
+    <item android:title="Wahana"
+        android:id="@+id/wahana"
+        android:icon="@drawable/zplay"/>
+    <item android:title="Your Orders"
+        android:id="@+id/orders"
+        android:icon="@drawable/zticket"/>
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/zuser"/>
+</menu>

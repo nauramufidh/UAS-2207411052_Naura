@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794634051895",
+    "project_id": "uas-naura",
+    "storage_bucket": "uas-naura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794634051895:android:8e9811bf82d59a9c177ab2",
+        "android_client_info": {
+          "package_name": "com.example.uas_naura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwGwd8e0JtKeuSBymubo1SLF8zmsEDCxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
